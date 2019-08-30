@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "MultipartFormData"
-version = "1.3"
+version = "1.4"
 description = "Convert the request data to form-data."
 license = "Apache-2.0"
 readme = "README.md"
 authors = ["天枢 <lengyaohui@163.com>"]
 
-homepage = "https://github.com/HttpTesting/pyhttp"
-repository = "https://github.com/HttpTesting/pyhttp"
+homepage = "https://github.com/HttpTesting/MultipartFormData"
+repository = "https://github.com/HttpTesting/MultipartFormData"
 
 
 keywords = ["http", "api", "form-data", "content-type"]
